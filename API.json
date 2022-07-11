@@ -8,8 +8,9 @@
           "Author": "tester",
           "itemtype":"config",
           "type": "Legit",
-          "corefile": ""
-          }
+          "corefile": "",
+          "Version": 1.2
+          },
       ]
   }
 }
