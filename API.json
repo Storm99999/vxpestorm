@@ -17,7 +17,7 @@
             "name":"VxpeStorm Blatant",
             "icon":"https://media.discordapp.net/attachments/735390853731844218/995781453495402646/unknown.png",
             "Author": "Storm",
-            "itemtype":"config",
+            "itemtype":"config_blatant",
             "type": "Blatant",
             "corefile": "test",
             "Version": "1.4",
