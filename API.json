@@ -9,7 +9,8 @@
             "itemtype":"config",
             "type": "Legit",
             "corefile": "test",
-            "Version": "1.4"
+            "Version": "1.4",
+            "Description": "The #1 Legit Config"
             }
         ]
     }
