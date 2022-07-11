@@ -10,7 +10,8 @@
             "type": "Legit",
             "corefile": "test",
             "Version": "1.4",
-            "Description": "The #1 Legit Config"
+            "Description": "The #1 Legit Config",
+            "filename": "hahafunny.txt"
             }
         ]
     }
